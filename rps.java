@@ -1,3 +1,4 @@
+package rock_paper_scissor;
 import java.util.Random;
 import java.util.Scanner;
 public class rps{
